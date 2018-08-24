@@ -735,6 +735,57 @@ Siemens, Hewlett-Packard, Texas Instuments, Sharp, Motorola&lt;p&gt;
 <rectangle x1="-4.064" y1="-0.254" x2="-3.556" y2="0.254" layer="51"/>
 <rectangle x1="3.556" y1="-0.254" x2="4.064" y2="0.254" layer="51"/>
 </package>
+<package name="1_05X2MM" urn="urn:adsk.eagle:footprint:22356/1" library_version="3">
+<description>CON-M-1X5-200</description>
+<text x="-4.5" y="1.5" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+<text x="-4.75" y="-2.75" size="1.27" layer="27">&gt;VALUE</text>
+<wire x1="-5" y1="0.5" x2="-4.5" y2="1" width="0.1524" layer="21"/>
+<wire x1="-4.5" y1="1" x2="-3.5" y2="1" width="0.1524" layer="21"/>
+<wire x1="-3.5" y1="1" x2="-3" y2="0.5" width="0.1524" layer="21"/>
+<wire x1="-3" y1="-0.5" x2="-3.5" y2="-1" width="0.1524" layer="21"/>
+<wire x1="-3.5" y1="-1" x2="-4.5" y2="-1" width="0.1524" layer="21"/>
+<wire x1="-4.5" y1="-1" x2="-5" y2="-0.5" width="0.1524" layer="21"/>
+<wire x1="-5" y1="0.5" x2="-5" y2="-0.5" width="0.1524" layer="21"/>
+<wire x1="-3" y1="0.5" x2="-2.5" y2="1" width="0.1524" layer="21"/>
+<wire x1="-2.5" y1="1" x2="-1.5" y2="1" width="0.1524" layer="21"/>
+<wire x1="-1.5" y1="1" x2="-1" y2="0.5" width="0.1524" layer="21"/>
+<wire x1="-1" y1="-0.5" x2="-1.5" y2="-1" width="0.1524" layer="21"/>
+<wire x1="-1.5" y1="-1" x2="-2.5" y2="-1" width="0.1524" layer="21"/>
+<wire x1="-2.5" y1="-1" x2="-3" y2="-0.5" width="0.1524" layer="21"/>
+<wire x1="-3" y1="0.5" x2="-3" y2="-0.5" width="0.1524" layer="21"/>
+<wire x1="-1" y1="0.5" x2="-0.5" y2="1" width="0.1524" layer="21"/>
+<wire x1="-0.5" y1="1" x2="0.5" y2="1" width="0.1524" layer="21"/>
+<wire x1="0.5" y1="1" x2="1" y2="0.5" width="0.1524" layer="21"/>
+<wire x1="1" y1="-0.5" x2="0.5" y2="-1" width="0.1524" layer="21"/>
+<wire x1="0.5" y1="-1" x2="-0.5" y2="-1" width="0.1524" layer="21"/>
+<wire x1="-0.5" y1="-1" x2="-1" y2="-0.5" width="0.1524" layer="21"/>
+<wire x1="-1" y1="0.5" x2="-1" y2="-0.5" width="0.1524" layer="21"/>
+<wire x1="1" y1="0.5" x2="1.5" y2="1" width="0.1524" layer="21"/>
+<wire x1="1.5" y1="1" x2="2.5" y2="1" width="0.1524" layer="21"/>
+<wire x1="2.5" y1="1" x2="3" y2="0.5" width="0.1524" layer="21"/>
+<wire x1="3" y1="-0.5" x2="2.5" y2="-1" width="0.1524" layer="21"/>
+<wire x1="2.5" y1="-1" x2="1.5" y2="-1" width="0.1524" layer="21"/>
+<wire x1="1.5" y1="-1" x2="1" y2="-0.5" width="0.1524" layer="21"/>
+<wire x1="1" y1="0.5" x2="1" y2="-0.5" width="0.1524" layer="21"/>
+<wire x1="3" y1="0.5" x2="3.5" y2="1" width="0.1524" layer="21"/>
+<wire x1="3.5" y1="1" x2="4.5" y2="1" width="0.1524" layer="21"/>
+<wire x1="4.5" y1="1" x2="5" y2="0.5" width="0.1524" layer="21"/>
+<wire x1="5" y1="0.5" x2="5" y2="-0.5" width="0.1524" layer="21"/>
+<wire x1="5" y1="-0.5" x2="4.5" y2="-1" width="0.1524" layer="21"/>
+<wire x1="4.5" y1="-1" x2="3.5" y2="-1" width="0.1524" layer="21"/>
+<wire x1="3.5" y1="-1" x2="3" y2="-0.5" width="0.1524" layer="21"/>
+<wire x1="3" y1="0.5" x2="3" y2="-0.5" width="0.1524" layer="21"/>
+<pad name="1" x="-4" y="0" drill="1.016" diameter="1.3" shape="square" rot="R90"/>
+<pad name="3" x="0" y="0" drill="1.016" diameter="1.3" rot="R90"/>
+<pad name="2" x="-2" y="0" drill="1.016" diameter="1.3" rot="R90"/>
+<pad name="4" x="2" y="0" drill="1.016" diameter="1.3" rot="R90"/>
+<pad name="5" x="4" y="0" drill="1.016" diameter="1.3" rot="R90"/>
+<rectangle x1="-4.254" y1="-0.254" x2="-3.746" y2="0.254" layer="51"/>
+<rectangle x1="-2.254" y1="-0.254" x2="-1.746" y2="0.254" layer="51"/>
+<rectangle x1="-0.254" y1="-0.254" x2="0.254" y2="0.254" layer="51"/>
+<rectangle x1="1.746" y1="-0.254" x2="2.254" y2="0.254" layer="51"/>
+<rectangle x1="3.746" y1="-0.254" x2="4.254" y2="0.254" layer="51"/>
+</package>
 </packages>
 <packages3d>
 <package3d name="1X04/90" urn="urn:adsk.eagle:package:22404/2" type="model" library_version="3">
@@ -747,6 +798,12 @@ Siemens, Hewlett-Packard, Texas Instuments, Sharp, Motorola&lt;p&gt;
 <description>PIN HEADER</description>
 <packageinstances>
 <packageinstance name="1X04"/>
+</packageinstances>
+</package3d>
+<package3d name="1_05X2MM" urn="urn:adsk.eagle:package:22466/2" type="model" library_version="3">
+<description>CON-M-1X5-200</description>
+<packageinstances>
+<packageinstance name="1_05X2MM"/>
 </packageinstances>
 </package3d>
 </packages3d>
@@ -1152,6 +1209,160 @@ Siemens, Hewlett-Packard, Texas Instuments, Sharp, Motorola&lt;p&gt;
 </package>
 </packages>
 </library>
+<library name="v-reg" urn="urn:adsk.eagle:library:409">
+<description>&lt;b&gt;Voltage Regulators&lt;/b&gt;&lt;p&gt;
+&lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
+<packages>
+<package name="DPACK" urn="urn:adsk.eagle:footprint:30314/1" library_version="1">
+<description>&lt;b&gt;DPAK&lt;/b&gt;&lt;p&gt;
+PLASTIC PACKAGE CASE 369C-01&lt;br&gt;
+Source: http://www.onsemi.co.jp .. LM317M-D.PDF</description>
+<wire x1="3.2766" y1="3.8354" x2="3.277" y2="-2.159" width="0.2032" layer="21"/>
+<wire x1="3.277" y1="-2.159" x2="-3.277" y2="-2.159" width="0.2032" layer="21"/>
+<wire x1="-3.277" y1="-2.159" x2="-3.2766" y2="3.8354" width="0.2032" layer="21"/>
+<wire x1="-3.277" y1="3.835" x2="3.2774" y2="3.8346" width="0.2032" layer="51"/>
+<wire x1="-2.5654" y1="3.937" x2="-2.5654" y2="4.6482" width="0.2032" layer="51"/>
+<wire x1="-2.5654" y1="4.6482" x2="-2.1082" y2="5.1054" width="0.2032" layer="51"/>
+<wire x1="-2.1082" y1="5.1054" x2="2.1082" y2="5.1054" width="0.2032" layer="51"/>
+<wire x1="2.1082" y1="5.1054" x2="2.5654" y2="4.6482" width="0.2032" layer="51"/>
+<wire x1="2.5654" y1="4.6482" x2="2.5654" y2="3.937" width="0.2032" layer="51"/>
+<wire x1="2.5654" y1="3.937" x2="-2.5654" y2="3.937" width="0.2032" layer="51"/>
+<smd name="4" x="0" y="2.38" dx="5.8" dy="6.2" layer="1"/>
+<smd name="1" x="-2.28" y="-4.8" dx="1.6" dy="3" layer="1"/>
+<smd name="3" x="2.28" y="-4.8" dx="1.6" dy="3" layer="1"/>
+<text x="-3.81" y="-2.54" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="5.08" y="-2.54" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<rectangle x1="-2.7178" y1="-5.1562" x2="-1.8542" y2="-2.2606" layer="51"/>
+<rectangle x1="1.8542" y1="-5.1562" x2="2.7178" y2="-2.2606" layer="51"/>
+<rectangle x1="-0.4318" y1="-3.0226" x2="0.4318" y2="-2.2606" layer="21"/>
+<polygon width="0.1998" layer="51">
+<vertex x="-2.5654" y="3.937"/>
+<vertex x="-2.5654" y="4.6482"/>
+<vertex x="-2.1082" y="5.1054"/>
+<vertex x="2.1082" y="5.1054"/>
+<vertex x="2.5654" y="4.6482"/>
+<vertex x="2.5654" y="3.937"/>
+</polygon>
+</package>
+</packages>
+<packages3d>
+<package3d name="DPACK" urn="urn:adsk.eagle:package:30369/1" type="box" library_version="1">
+<description>DPAK
+PLASTIC PACKAGE CASE 369C-01
+Source: http://www.onsemi.co.jp .. LM317M-D.PDF</description>
+<packageinstances>
+<packageinstance name="DPACK"/>
+</packageinstances>
+</package3d>
+</packages3d>
+</library>
+<library name="led" urn="urn:adsk.eagle:library:259">
+<description>&lt;b&gt;LEDs&lt;/b&gt;&lt;p&gt;
+&lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;&lt;br&gt;
+Extended by Federico Battaglin &lt;author&gt;&amp;lt;federico.rd@fdpinternational.com&amp;gt;&lt;/author&gt; with DUOLED</description>
+<packages>
+<package name="CHIPLED_1206" urn="urn:adsk.eagle:footprint:15675/1" library_version="2">
+<description>&lt;b&gt;CHIPLED&lt;/b&gt;&lt;p&gt;
+Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
+<wire x1="-0.4" y1="1.6" x2="0.4" y2="1.6" width="0.1016" layer="51" curve="172.619069"/>
+<wire x1="-0.8" y1="-0.95" x2="-0.8" y2="0.95" width="0.1016" layer="51"/>
+<wire x1="0.8" y1="0.95" x2="0.8" y2="-0.95" width="0.1016" layer="51"/>
+<circle x="-0.55" y="1.425" radius="0.1" width="0.1016" layer="51"/>
+<smd name="C" x="0" y="1.75" dx="1.5" dy="1.5" layer="1"/>
+<smd name="A" x="0" y="-1.75" dx="1.5" dy="1.5" layer="1"/>
+<text x="-1.27" y="-1.27" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="2.54" y="-1.27" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<rectangle x1="-0.85" y1="1.525" x2="-0.35" y2="1.65" layer="51"/>
+<rectangle x1="-0.85" y1="1.225" x2="-0.625" y2="1.55" layer="51"/>
+<rectangle x1="-0.45" y1="1.225" x2="-0.325" y2="1.45" layer="51"/>
+<rectangle x1="-0.65" y1="1.225" x2="-0.225" y2="1.35" layer="51"/>
+<rectangle x1="0.35" y1="1.3" x2="0.85" y2="1.65" layer="51"/>
+<rectangle x1="0.25" y1="1.225" x2="0.85" y2="1.35" layer="51"/>
+<rectangle x1="-0.85" y1="0.95" x2="0.85" y2="1.25" layer="51"/>
+<rectangle x1="-0.85" y1="-1.65" x2="0.85" y2="-0.95" layer="51"/>
+<rectangle x1="-0.85" y1="0.35" x2="-0.525" y2="0.775" layer="21"/>
+<rectangle x1="0.525" y1="0.35" x2="0.85" y2="0.775" layer="21"/>
+<rectangle x1="-0.175" y1="0" x2="0.175" y2="0.35" layer="21"/>
+</package>
+</packages>
+<packages3d>
+<package3d name="CHIPLED_1206" urn="urn:adsk.eagle:package:15823/2" type="model" library_version="2">
+<description>CHIPLED
+Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
+<packageinstances>
+<packageinstance name="CHIPLED_1206"/>
+</packageinstances>
+</package3d>
+</packages3d>
+</library>
+<library name="crystal" urn="urn:adsk.eagle:library:204">
+<description>&lt;b&gt;Crystals and Crystal Resonators&lt;/b&gt;&lt;p&gt;
+&lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
+<packages>
+<package name="HC49UP" urn="urn:adsk.eagle:footprint:11999/1" library_version="1">
+<description>&lt;b&gt;CRYSTAL&lt;/b&gt;</description>
+<wire x1="-5.1091" y1="1.143" x2="-3.429" y2="2.0321" width="0.0508" layer="21" curve="-55.770993"/>
+<wire x1="-5.715" y1="1.143" x2="-5.715" y2="2.159" width="0.1524" layer="21"/>
+<wire x1="3.429" y1="2.032" x2="5.1091" y2="1.143" width="0.0508" layer="21" curve="-55.772485"/>
+<wire x1="5.715" y1="1.143" x2="5.715" y2="2.159" width="0.1524" layer="21"/>
+<wire x1="3.429" y1="-1.27" x2="-3.429" y2="-1.27" width="0.0508" layer="21"/>
+<wire x1="3.429" y1="-2.032" x2="-3.429" y2="-2.032" width="0.0508" layer="21"/>
+<wire x1="-3.429" y1="1.27" x2="3.429" y2="1.27" width="0.0508" layer="21"/>
+<wire x1="5.461" y1="-2.413" x2="-5.461" y2="-2.413" width="0.1524" layer="21"/>
+<wire x1="5.715" y1="-0.381" x2="6.477" y2="-0.381" width="0.1524" layer="51"/>
+<wire x1="5.715" y1="0.381" x2="6.477" y2="0.381" width="0.1524" layer="51"/>
+<wire x1="6.477" y1="-0.381" x2="6.477" y2="0.381" width="0.1524" layer="51"/>
+<wire x1="5.461" y1="-2.413" x2="5.715" y2="-2.159" width="0.1524" layer="21" curve="90"/>
+<wire x1="5.715" y1="-1.143" x2="5.715" y2="1.143" width="0.1524" layer="51"/>
+<wire x1="5.715" y1="-2.159" x2="5.715" y2="-1.143" width="0.1524" layer="21"/>
+<wire x1="3.429" y1="-1.27" x2="3.9826" y2="-1.143" width="0.0508" layer="21" curve="25.842828"/>
+<wire x1="3.429" y1="1.27" x2="3.9826" y2="1.143" width="0.0508" layer="21" curve="-25.842828"/>
+<wire x1="3.429" y1="-2.032" x2="5.109" y2="-1.1429" width="0.0508" layer="21" curve="55.771157"/>
+<wire x1="3.9826" y1="-1.143" x2="3.9826" y2="1.143" width="0.0508" layer="51" curve="128.314524"/>
+<wire x1="5.1091" y1="-1.143" x2="5.1091" y2="1.143" width="0.0508" layer="51" curve="68.456213"/>
+<wire x1="-5.1091" y1="-1.143" x2="-3.429" y2="-2.032" width="0.0508" layer="21" curve="55.772485"/>
+<wire x1="-3.9826" y1="-1.143" x2="-3.9826" y2="1.143" width="0.0508" layer="51" curve="-128.314524"/>
+<wire x1="-3.9826" y1="-1.143" x2="-3.429" y2="-1.27" width="0.0508" layer="21" curve="25.842828"/>
+<wire x1="-3.9826" y1="1.143" x2="-3.429" y2="1.27" width="0.0508" layer="21" curve="-25.842828"/>
+<wire x1="-6.477" y1="-0.381" x2="-6.477" y2="0.381" width="0.1524" layer="51"/>
+<wire x1="-5.1091" y1="-1.143" x2="-5.1091" y2="1.143" width="0.0508" layer="51" curve="-68.456213"/>
+<wire x1="-5.715" y1="-1.143" x2="-5.715" y2="-0.381" width="0.1524" layer="51"/>
+<wire x1="-5.715" y1="-0.381" x2="-5.715" y2="0.381" width="0.1524" layer="51"/>
+<wire x1="-5.715" y1="0.381" x2="-5.715" y2="1.143" width="0.1524" layer="51"/>
+<wire x1="-5.715" y1="-2.159" x2="-5.715" y2="-1.143" width="0.1524" layer="21"/>
+<wire x1="-5.715" y1="-2.159" x2="-5.461" y2="-2.413" width="0.1524" layer="21" curve="90"/>
+<wire x1="-5.715" y1="-0.381" x2="-6.477" y2="-0.381" width="0.1524" layer="51"/>
+<wire x1="-5.715" y1="0.381" x2="-6.477" y2="0.381" width="0.1524" layer="51"/>
+<wire x1="-3.429" y1="2.032" x2="3.429" y2="2.032" width="0.0508" layer="21"/>
+<wire x1="5.461" y1="2.413" x2="-5.461" y2="2.413" width="0.1524" layer="21"/>
+<wire x1="5.461" y1="2.413" x2="5.715" y2="2.159" width="0.1524" layer="21" curve="-90"/>
+<wire x1="-5.715" y1="2.159" x2="-5.461" y2="2.413" width="0.1524" layer="21" curve="-90"/>
+<wire x1="-0.254" y1="0.635" x2="-0.254" y2="-0.635" width="0.1524" layer="21"/>
+<wire x1="-0.254" y1="-0.635" x2="0.254" y2="-0.635" width="0.1524" layer="21"/>
+<wire x1="0.254" y1="-0.635" x2="0.254" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="0.254" y1="0.635" x2="-0.254" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="-0.635" y1="0.635" x2="-0.635" y2="0" width="0.1524" layer="21"/>
+<wire x1="-0.635" y1="0" x2="-0.635" y2="-0.635" width="0.1524" layer="21"/>
+<wire x1="-0.635" y1="0" x2="-1.016" y2="0" width="0.0508" layer="21"/>
+<wire x1="0.635" y1="0.635" x2="0.635" y2="0" width="0.1524" layer="21"/>
+<wire x1="0.635" y1="0" x2="0.635" y2="-0.635" width="0.1524" layer="21"/>
+<wire x1="0.635" y1="0" x2="1.016" y2="0" width="0.0508" layer="21"/>
+<smd name="1" x="-4.826" y="0" dx="5.334" dy="1.9304" layer="1"/>
+<smd name="2" x="4.826" y="0" dx="5.334" dy="1.9304" layer="1"/>
+<text x="-5.715" y="2.794" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+<text x="-5.715" y="-4.191" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
+<rectangle x1="-6.604" y1="-3.048" x2="6.604" y2="3.048" layer="43"/>
+</package>
+</packages>
+<packages3d>
+<package3d name="HC49UP" urn="urn:adsk.eagle:package:12078/1" type="box" library_version="1">
+<description>CRYSTAL</description>
+<packageinstances>
+<packageinstance name="HC49UP"/>
+</packageinstances>
+</package3d>
+</packages3d>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -1371,33 +1582,33 @@ design rules under a new name.</description>
 <attribute name="TOLERANCE" value="5%" x="58.281" y="37.8315" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="58.69375" y="39.1015" size="0.8128" layer="27"/>
 </element>
-<element name="CFG" library="FLYFISH" package="PIN_W_2" value="" x="58.977" y="33.921" smashed="yes" rot="R90">
-<attribute name="NAME" x="53.8233" y="33.27855" size="1.4224" layer="25" ratio="15"/>
-<attribute name="VALUE" x="64.692" y="32.651" size="1.27" layer="27" rot="R90"/>
+<element name="CFG" library="FLYFISH" package="PIN_W_2" value="" x="59.993" y="34.175" smashed="yes" rot="R90">
+<attribute name="NAME" x="54.8393" y="33.53255" size="1.4224" layer="25" ratio="15"/>
+<attribute name="VALUE" x="65.708" y="32.905" size="1.27" layer="27" rot="R90"/>
 </element>
-<element name="K6" library="relay" library_urn="urn:adsk.eagle:library:339" package="FSMR" package3d_urn="urn:adsk.eagle:package:24334/1" value="FSMR" x="13.158" y="12.873" smashed="yes" rot="R90">
-<attribute name="MF" value="" x="13.158" y="12.873" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MPN" value="" x="13.158" y="12.873" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="15.587" y="16.493" size="1.27" layer="25" ratio="10" rot="R180"/>
-<attribute name="OC_FARNELL" value="unknown" x="13.158" y="12.873" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="OC_NEWARK" value="unknown" x="13.158" y="12.873" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="16.46" y="16.048" size="1.27" layer="27" ratio="10" rot="R180"/>
+<element name="K6" library="relay" library_urn="urn:adsk.eagle:library:339" package="FSMR" package3d_urn="urn:adsk.eagle:package:24334/1" value="FSMR" x="22.556" y="12.746" smashed="yes" rot="R90">
+<attribute name="MF" value="" x="22.556" y="12.746" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MPN" value="" x="22.556" y="12.746" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="24.985" y="16.366" size="1.27" layer="25" ratio="10" rot="R180"/>
+<attribute name="OC_FARNELL" value="unknown" x="22.556" y="12.746" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="OC_NEWARK" value="unknown" x="22.556" y="12.746" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="25.858" y="15.921" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
-<element name="K2" library="relay" library_urn="urn:adsk.eagle:library:339" package="FSMR" package3d_urn="urn:adsk.eagle:package:24334/1" value="FSMR" x="21.523" y="12.873" smashed="yes" rot="R90">
-<attribute name="MF" value="" x="21.523" y="12.873" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MPN" value="" x="21.523" y="12.873" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="23.952" y="16.493" size="1.27" layer="25" ratio="10" rot="R180"/>
-<attribute name="OC_FARNELL" value="unknown" x="21.523" y="12.873" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="OC_NEWARK" value="unknown" x="21.523" y="12.873" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="24.825" y="16.048" size="1.27" layer="27" ratio="10" rot="R180"/>
+<element name="K2" library="relay" library_urn="urn:adsk.eagle:library:339" package="FSMR" package3d_urn="urn:adsk.eagle:package:24334/1" value="FSMR" x="30.921" y="12.873" smashed="yes" rot="R90">
+<attribute name="MF" value="" x="30.921" y="12.873" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MPN" value="" x="30.921" y="12.873" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="33.35" y="16.493" size="1.27" layer="25" ratio="10" rot="R180"/>
+<attribute name="OC_FARNELL" value="unknown" x="30.921" y="12.873" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="OC_NEWARK" value="unknown" x="30.921" y="12.873" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="34.223" y="16.048" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
-<element name="K3" library="relay" library_urn="urn:adsk.eagle:library:339" package="FSMR" package3d_urn="urn:adsk.eagle:package:24334/1" value="FSMR" x="29.888" y="12.873" smashed="yes" rot="R90">
-<attribute name="MF" value="" x="29.888" y="12.873" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="MPN" value="" x="29.888" y="12.873" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="32.317" y="16.493" size="1.27" layer="25" ratio="10" rot="R180"/>
-<attribute name="OC_FARNELL" value="unknown" x="29.888" y="12.873" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="OC_NEWARK" value="unknown" x="29.888" y="12.873" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="33.19" y="16.048" size="1.27" layer="27" ratio="10" rot="R180"/>
+<element name="K3" library="relay" library_urn="urn:adsk.eagle:library:339" package="FSMR" package3d_urn="urn:adsk.eagle:package:24334/1" value="FSMR" x="39.159" y="12.873" smashed="yes" rot="R90">
+<attribute name="MF" value="" x="39.159" y="12.873" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MPN" value="" x="39.159" y="12.873" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="41.588" y="16.493" size="1.27" layer="25" ratio="10" rot="R180"/>
+<attribute name="OC_FARNELL" value="unknown" x="39.159" y="12.873" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="OC_NEWARK" value="unknown" x="39.159" y="12.873" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="42.461" y="16.048" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="X1" library="con-phoenix-350" library_urn="urn:adsk.eagle:library:174" package="1751251" package3d_urn="urn:adsk.eagle:package:9394/1" value="1751251" x="38" y="4" smashed="yes">
 <attribute name="MF" value="" x="38" y="4" size="1.778" layer="27" display="off"/>
@@ -1423,37 +1634,37 @@ design rules under a new name.</description>
 <attribute name="OC_NEWARK" value="unknown" x="14" y="4" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="10.1975" y="8.1275" size="1.27" layer="27"/>
 </element>
-<element name="OK1" library="optocoupler" library_urn="urn:adsk.eagle:library:320" package="DIL06" package3d_urn="urn:adsk.eagle:package:21942/1" value="4N35" x="60.149" y="14.961" smashed="yes" rot="R180">
-<attribute name="MF" value="FAIRCHILD SEMICONDUCTOR" x="60.149" y="14.961" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MPN" value="4N35" x="60.149" y="14.961" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="61.213" y="16.882" size="1.27" layer="25" ratio="10" rot="R270"/>
-<attribute name="OC_FARNELL" value="1328375" x="60.149" y="14.961" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="OC_NEWARK" value="72K9946" x="60.149" y="14.961" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VALUE" x="62.562" y="15.596" size="1.27" layer="27" ratio="10" rot="R180"/>
+<element name="OK1" library="optocoupler" library_urn="urn:adsk.eagle:library:320" package="DIL06" package3d_urn="urn:adsk.eagle:package:21942/1" value="4N35" x="60.403" y="13.691" smashed="yes" rot="R180">
+<attribute name="MF" value="FAIRCHILD SEMICONDUCTOR" x="60.403" y="13.691" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MPN" value="4N35" x="60.403" y="13.691" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="61.467" y="15.612" size="1.27" layer="25" ratio="10" rot="R270"/>
+<attribute name="OC_FARNELL" value="1328375" x="60.403" y="13.691" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="OC_NEWARK" value="72K9946" x="60.403" y="13.691" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="VALUE" x="62.816" y="14.326" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
-<element name="OK2" library="optocoupler" library_urn="urn:adsk.eagle:library:320" package="DIL06" package3d_urn="urn:adsk.eagle:package:21942/1" value="4N35" x="50.972" y="14.961" smashed="yes" rot="R180">
-<attribute name="MF" value="FAIRCHILD SEMICONDUCTOR" x="50.972" y="14.961" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MPN" value="4N35" x="50.972" y="14.961" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="52.036" y="16.882" size="1.27" layer="25" ratio="10" rot="R270"/>
-<attribute name="OC_FARNELL" value="1328375" x="50.972" y="14.961" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="OC_NEWARK" value="72K9946" x="50.972" y="14.961" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VALUE" x="53.385" y="15.596" size="1.27" layer="27" ratio="10" rot="R180"/>
+<element name="OK2" library="optocoupler" library_urn="urn:adsk.eagle:library:320" package="DIL06" package3d_urn="urn:adsk.eagle:package:21942/1" value="4N35" x="51.226" y="18.898" smashed="yes" rot="R180">
+<attribute name="MF" value="FAIRCHILD SEMICONDUCTOR" x="51.226" y="18.898" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MPN" value="4N35" x="51.226" y="18.898" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="52.29" y="20.819" size="1.27" layer="25" ratio="10" rot="R270"/>
+<attribute name="OC_FARNELL" value="1328375" x="51.226" y="18.898" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="OC_NEWARK" value="72K9946" x="51.226" y="18.898" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="VALUE" x="53.639" y="19.533" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
-<element name="OK3" library="optocoupler" library_urn="urn:adsk.eagle:library:320" package="DIL06" package3d_urn="urn:adsk.eagle:package:21942/1" value="4N35" x="38.954" y="14.943" smashed="yes" rot="R180">
-<attribute name="MF" value="FAIRCHILD SEMICONDUCTOR" x="38.954" y="14.943" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MPN" value="4N35" x="38.954" y="14.943" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="40.018" y="16.864" size="1.27" layer="25" ratio="10" rot="R270"/>
-<attribute name="OC_FARNELL" value="1328375" x="38.954" y="14.943" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="OC_NEWARK" value="72K9946" x="38.954" y="14.943" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VALUE" x="41.367" y="15.578" size="1.27" layer="27" ratio="10" rot="R180"/>
+<element name="OK3" library="optocoupler" library_urn="urn:adsk.eagle:library:320" package="DIL06" package3d_urn="urn:adsk.eagle:package:21942/1" value="4N35" x="51.4" y="6.434" smashed="yes" rot="R180">
+<attribute name="MF" value="FAIRCHILD SEMICONDUCTOR" x="51.4" y="6.434" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MPN" value="4N35" x="51.4" y="6.434" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="52.464" y="8.355" size="1.27" layer="25" ratio="10" rot="R270"/>
+<attribute name="OC_FARNELL" value="1328375" x="51.4" y="6.434" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="OC_NEWARK" value="72K9946" x="51.4" y="6.434" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="VALUE" x="53.813" y="7.069" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
-<element name="X4" library="con-phoenix-350" library_urn="urn:adsk.eagle:library:174" package="1751248" package3d_urn="urn:adsk.eagle:package:9395/1" value="1751248" x="4.238" y="13.127" smashed="yes" rot="R270">
-<attribute name="MF" value="" x="4.238" y="13.127" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MPN" value="" x="4.238" y="13.127" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="6.0155" y="15.153" size="1.27" layer="25"/>
-<attribute name="OC_FARNELL" value="unknown" x="4.238" y="13.127" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="OC_NEWARK" value="unknown" x="4.238" y="13.127" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="VALUE" x="8.3655" y="15.1795" size="1.27" layer="27" rot="R270"/>
+<element name="X4" library="con-phoenix-350" library_urn="urn:adsk.eagle:library:174" package="1751248" package3d_urn="urn:adsk.eagle:package:9395/1" value="1751248" x="4.492" y="13.127" smashed="yes" rot="R270">
+<attribute name="MF" value="" x="4.492" y="13.127" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MPN" value="" x="4.492" y="13.127" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="6.2695" y="15.153" size="1.27" layer="25"/>
+<attribute name="OC_FARNELL" value="unknown" x="4.492" y="13.127" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="OC_NEWARK" value="unknown" x="4.492" y="13.127" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="VALUE" x="8.6195" y="15.1795" size="1.27" layer="27" rot="R270"/>
 </element>
 <element name="E$1" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="1X04/90" package3d_urn="urn:adsk.eagle:package:22404/2" value="" x="8.128" y="42.164" rot="R90"/>
 <element name="E$2" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="1X04" package3d_urn="urn:adsk.eagle:package:22407/2" value="" x="7.62" y="27.559" rot="R270"/>
@@ -1487,15 +1698,29 @@ design rules under a new name.</description>
 <attribute name="PRICE" value="None" x="19.812" y="24.892" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="14.050090625" y="19.639990625" size="2.090609375" layer="27" ratio="10" rot="SR0"/>
 </element>
-<element name="U5" library="ATMEGA32U4-AU" package="QFP80P1200X1200X120-44N" value="ATMEGA32U4-AU" x="33.909" y="36.703" smashed="yes">
-<attribute name="AVAILABILITY" value="Good" x="33.909" y="36.703" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value=" MCU 8-bit ATmega AVR RISC 32KB Flash 3.3V/5V 44-Pin TQFP " x="33.909" y="36.703" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="Microchip" x="33.909" y="36.703" size="1.778" layer="27" display="off"/>
-<attribute name="MP" value="ATMEGA32U4-AU" x="33.909" y="36.703" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="32.40361875" y="38.6678" size="2.086190625" layer="25" ratio="10" rot="SR0"/>
-<attribute name="PACKAGE" value="TQFP-44 Microchip" x="33.909" y="36.703" size="1.778" layer="27" display="off"/>
-<attribute name="PRICE" value="4.05 USD" x="33.909" y="36.703" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="30.443909375" y="46.818" size="2.089240625" layer="27" ratio="10" rot="SR0"/>
+<element name="U5" library="ATMEGA32U4-AU" package="QFP80P1200X1200X120-44N" value="ATMEGA32U4-AU" x="33.909" y="35.306" smashed="yes" rot="MR0">
+<attribute name="AVAILABILITY" value="Good" x="33.909" y="35.306" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="DESCRIPTION" value=" MCU 8-bit ATmega AVR RISC 32KB Flash 3.3V/5V 44-Pin TQFP " x="33.909" y="35.306" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="MF" value="Microchip" x="33.909" y="35.306" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="MP" value="ATMEGA32U4-AU" x="33.909" y="35.306" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="NAME" x="35.41438125" y="37.2708" size="2.086190625" layer="26" ratio="10" rot="SMR0"/>
+<attribute name="PACKAGE" value="TQFP-44 Microchip" x="33.909" y="35.306" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="PRICE" value="4.05 USD" x="33.909" y="35.306" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="VALUE" x="37.374090625" y="45.421" size="2.089240625" layer="28" ratio="10" rot="SMR0"/>
+</element>
+<element name="IC1" library="v-reg" library_urn="urn:adsk.eagle:library:409" package="DPACK" package3d_urn="urn:adsk.eagle:package:30369/1" value="LP2950CDT-3.3" x="13.716" y="15.621" smashed="yes">
+<attribute name="NAME" x="14.986" y="20.574" size="1.27" layer="25" rot="R180"/>
+<attribute name="VALUE" x="18.796" y="13.081" size="1.27" layer="27" rot="R90"/>
+</element>
+<element name="JP1" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="1_05X2MM" package3d_urn="urn:adsk.eagle:package:22466/2" value="" x="62.611" y="26.543" rot="R90"/>
+<element name="LED1" library="led" library_urn="urn:adsk.eagle:library:259" package="CHIPLED_1206" package3d_urn="urn:adsk.eagle:package:15823/2" value="" x="52.959" y="42.799"/>
+<element name="LED2" library="led" library_urn="urn:adsk.eagle:library:259" package="CHIPLED_1206" package3d_urn="urn:adsk.eagle:package:15823/2" value="" x="50.673" y="42.799"/>
+<element name="LED3" library="led" library_urn="urn:adsk.eagle:library:259" package="CHIPLED_1206" package3d_urn="urn:adsk.eagle:package:15823/2" value="" x="48.387" y="42.799"/>
+<element name="Q1" library="crystal" library_urn="urn:adsk.eagle:library:204" package="HC49UP" package3d_urn="urn:adsk.eagle:package:12078/1" value="" x="34.163" y="45.085" rot="MR180">
+<attribute name="MF" value="" x="34.163" y="45.085" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MPN" value="" x="34.163" y="45.085" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="OC_FARNELL" value="unknown" x="34.163" y="45.085" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="OC_NEWARK" value="unknown" x="34.163" y="45.085" size="1.778" layer="28" rot="MR180" display="off"/>
 </element>
 </elements>
 <signals>
@@ -1585,10 +1810,18 @@ design rules under a new name.</description>
 <wire x1="59.104" y1="45.163" x2="59.182" y2="45.085" width="0.1524" layer="1"/>
 <wire x1="59.182" y1="45.085" x2="61.7855" y2="45.085" width="0.1524" layer="1"/>
 <wire x1="61.7855" y1="45.085" x2="63.168" y2="46.4675" width="0.1524" layer="1"/>
-<wire x1="56.602" y1="40.816" x2="59.231" y2="37.8315" width="0" layer="19" extent="1-1"/>
-<wire x1="61.345" y1="37.8315" x2="59.231" y2="37.8315" width="0" layer="19" extent="1-1"/>
-<wire x1="59.182" y1="45.085" x2="56.602" y2="40.816" width="0" layer="19" extent="1-1"/>
+<wire x1="56.602" y1="40.816" x2="56.651" y2="40.767" width="0.1524" layer="1"/>
+<wire x1="56.651" y1="40.767" x2="58.928" y2="40.767" width="0.1524" layer="1"/>
+<wire x1="58.928" y1="40.767" x2="59.231" y2="40.464" width="0.1524" layer="1"/>
+<wire x1="59.231" y1="40.464" x2="59.231" y2="37.8315" width="0.1524" layer="1"/>
+<wire x1="59.231" y1="37.8315" x2="61.345" y2="37.8315" width="0.1524" layer="1"/>
+<wire x1="58.928" y1="40.767" x2="59.182" y2="41.656" width="0" layer="19" extent="1-16"/>
 <wire x1="8.37" y1="51.23" x2="28.69" y2="51.23" width="0" layer="19" extent="1-1"/>
+<wire x1="59.182" y1="45.085" x2="59.182" y2="44.6534" width="0.1524" layer="1"/>
+<via x="59.182" y="44.6534" extent="1-16" drill="0.35"/>
+<wire x1="59.182" y1="44.6534" x2="59.182" y2="43.434" width="0.1524" layer="16"/>
+<wire x1="59.182" y1="43.434" x2="59.182" y2="41.656" width="0.1524" layer="16"/>
+<wire x1="58.928" y1="40.767" x2="58.928" y2="40.767" width="0.1524" layer="1"/>
 </signal>
 <signal name="N$1">
 <contactref element="U1" pad="6"/>
@@ -1631,8 +1864,16 @@ design rules under a new name.</description>
 <contactref element="U1" pad="7"/>
 <contactref element="R3" pad="1"/>
 <contactref element="CFG" pad="1"/>
-<wire x1="57.331" y1="37.8315" x2="56.602" y2="42.086" width="0" layer="19" extent="1-1"/>
-<wire x1="58.977" y1="33.921" x2="57.331" y2="37.8315" width="0" layer="19" extent="1-1"/>
+<wire x1="56.602" y1="42.086" x2="56.553" y2="42.037" width="0.1524" layer="1"/>
+<wire x1="54.991" y1="42.037" x2="54.864" y2="41.91" width="0.1524" layer="1"/>
+<wire x1="54.864" y1="41.91" x2="54.864" y2="38.1" width="0.1524" layer="1"/>
+<wire x1="54.864" y1="38.1" x2="55.1325" y2="37.8315" width="0.1524" layer="1"/>
+<wire x1="55.1325" y1="37.8315" x2="57.331" y2="37.8315" width="0.1524" layer="1"/>
+<wire x1="56.553" y1="42.037" x2="54.991" y2="42.037" width="0.1524" layer="1"/>
+<wire x1="57.331" y1="37.8315" x2="57.331" y2="34.236" width="0.1524" layer="1"/>
+<wire x1="57.331" y1="34.236" x2="57.658" y2="33.909" width="0.1524" layer="1"/>
+<wire x1="57.658" y1="33.909" x2="57.67" y2="33.921" width="0.1524" layer="1"/>
+<wire x1="57.67" y1="33.921" x2="59.993" y2="34.175" width="0.1524" layer="1"/>
 </signal>
 <signal name="+5V">
 <contactref element="K1" pad="2"/>
